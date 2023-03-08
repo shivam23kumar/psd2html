@@ -193,7 +193,9 @@ tr:nth-child(even) {
 tr:hover {
   background-color: gray;
 }
-
+.text-16{
+  margin-top:10px;
+}
 
 @media only screen and (max-width: 768px){
   .img {
